@@ -1,0 +1,64 @@
+.first-section {
+    display: flex;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.mission-2022 {
+    color: orange;
+}
+
+.container {
+    width: 50%;
+    margin: 4%;
+}
+
+a {
+    font-size: 20px;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    display: inline-block;
+
+}
+
+img {
+    width: 50%;
+    margin: 10%;
+}
+
+.center {
+    text-align: center;
+}
+
+.my-mission {
+    width: 90%;
+    padding: 2%;
+}
+
+.mission-vission-goals {
+    width: 26%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 3%;
+    padding-right: 1%;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.mission {
+    background-color: rgb(204, 223, 230);
+}
+
+.vission {
+    background-color: rgb(235, 199, 205);
+}
+
+.goals {
+    background-color: rgb(240, 240, 232);
+}
