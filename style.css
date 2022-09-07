@@ -62,3 +62,10 @@ img {
 .goals {
     background-color: rgb(240, 240, 232);
 }
+.ending-section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
